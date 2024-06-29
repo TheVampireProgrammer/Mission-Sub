@@ -126,6 +126,6 @@ class main {
             return;
         }
         // Thanks for spending a few minutes to play this!
-        //                               - Derpkitty120002
+        //                        - The Vampire Programmer
     }
 }
